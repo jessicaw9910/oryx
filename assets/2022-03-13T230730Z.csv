@@ -1,0 +1,1692 @@
+names,status,idx,group,country
+T-64BV,damaged,1,Tanks,RUS
+T-64BV,captured,2,Tanks,RUS
+T-64BV,captured,3,Tanks,RUS
+T-72A,destroyed,1,Tanks,RUS
+T-72A,destroyed,2,Tanks,RUS
+T-72A,captured,3,Tanks,RUS
+T-72A,captured,4,Tanks,RUS
+T-72A,captured,5,Tanks,RUS
+T-72A,captured,6,Tanks,RUS
+T-72A,captured,7,Tanks,RUS
+T-72AV,destroyed,1,Tanks,RUS
+T-72AV,destroyed,2,Tanks,RUS
+T-72AV,captured,3,Tanks,RUS
+T-72B,destroyed,1,Tanks,RUS
+T-72B,destroyed,2,Tanks,RUS
+T-72B,destroyed,3,Tanks,RUS
+T-72B,destroyed,4,Tanks,RUS
+T-72B,destroyed,5,Tanks,RUS
+T-72B,captured and later destroyed,6,Tanks,RUS
+T-72B,destroyed,7,Tanks,RUS
+T-72B,destroyed,8,Tanks,RUS
+T-72B,damaged,9,Tanks,RUS
+T-72B,damaged and abandoned,10,Tanks,RUS
+T-72B,abandoned,11,Tanks,RUS
+T-72B,abandoned,12,Tanks,RUS
+T-72B,abandoned,13,Tanks,RUS
+T-72B,abandoned,14,Tanks,RUS
+T-72B,abandoned,15,Tanks,RUS
+T-72B,damaged and captured,16,Tanks,RUS
+T-72B,captured,17,Tanks,RUS
+T-72B,captured,18,Tanks,RUS
+T-72B,captured,19,Tanks,RUS
+T-72B,captured,20,Tanks,RUS
+T-72B,captured and stripped,21,Tanks,RUS
+T-72B,captured,22,Tanks,RUS
+T-72B,captured,23,Tanks,RUS
+T-72B,captured,24,Tanks,RUS
+T-72B,captured,25,Tanks,RUS
+T-72B,captured,26,Tanks,RUS
+T-72B,captured,27,Tanks,RUS
+T-72B,captured,28,Tanks,RUS
+T-72B,captured,29,Tanks,RUS
+T-72B,captured,30,Tanks,RUS
+T-72B,captured,31,Tanks,RUS
+T-72B,captured,32,Tanks,RUS
+T-72B,captured,33,Tanks,RUS
+T-72B,captured,34,Tanks,RUS
+T-72B Obr. 1989,destroyed,1,Tanks,RUS
+T-72B Obr. 1989,abandoned,2,Tanks,RUS
+T-72B Obr. 1989,abandoned,3,Tanks,RUS
+T-72B Obr. 1989,captured,4,Tanks,RUS
+T-72B Obr. 1989,captured,5,Tanks,RUS
+T-72B3,destroyed,1,Tanks,RUS
+T-72B3,destroyed,2,Tanks,RUS
+T-72B3,destroyed,3,Tanks,RUS
+T-72B3,destroyed,4,Tanks,RUS
+T-72B3,destroyed,5,Tanks,RUS
+T-72B3,damaged,6,Tanks,RUS
+T-72B3,abandoned,7,Tanks,RUS
+T-72B3,abandoned,8,Tanks,RUS
+T-72B3,abandoned,9,Tanks,RUS
+T-72B3,abandoned,10,Tanks,RUS
+T-72B3,captured,11,Tanks,RUS
+T-72B3,captured,12,Tanks,RUS
+T-72B3,captured,13,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,1,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,2,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,3,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,4,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,5,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,6,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,7,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,8,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,9,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,10,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,11,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,12,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,13,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,14,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,15,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,16,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,17,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,18,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,19,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,20,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,21,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,22,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,23,Tanks,RUS
+T-72B3 Obr. 2016,destroyed,24,Tanks,RUS
+T-72B3 Obr. 2016,abandoned and later destroyed,25,Tanks,RUS
+T-72B3 Obr. 2016,abandoned,26,Tanks,RUS
+T-72B3 Obr. 2016,abandoned,27,Tanks,RUS
+T-72B3 Obr. 2016,abandoned,28,Tanks,RUS
+T-72B3 Obr. 2016,abandoned,29,Tanks,RUS
+T-72B3 Obr. 2016,captured,30,Tanks,RUS
+T-72B3 Obr. 2016,captured,31,Tanks,RUS
+T-72B3 Obr. 2016,captured,32,Tanks,RUS
+T-72B3 Obr. 2016,captured,33,Tanks,RUS
+T-72B3 Obr. 2016,captured,34,Tanks,RUS
+T-72B3 Obr. 2016,captured,35,Tanks,RUS
+T-72B3 Obr. 2016,captured,36,Tanks,RUS
+T-72B3 Obr. 2016,captured,37,Tanks,RUS
+T-72B3 Obr. 2016,captured,38,Tanks,RUS
+T-72B3 Obr. 2016,captured,39,Tanks,RUS
+T-72B3 Obr. 2016,captured,40,Tanks,RUS
+T-72B3 Obr. 2016,captured,41,Tanks,RUS
+T-72B3 Obr. 2016,captured,42,Tanks,RUS
+T-72B3 Obr. 2016,captured,43,Tanks,RUS
+T-72B3 Obr. 2016,captured,44,Tanks,RUS
+T-72B3 Obr. 2016,captured,45,Tanks,RUS
+T-72B3 Obr. 2016,captured,46,Tanks,RUS
+T-72B3 Obr. 2016,captured,47,Tanks,RUS
+T-72B3 Obr. 2016,captured,48,Tanks,RUS
+T-72B3 Obr. 2016,captured,49,Tanks,RUS
+T-72B3 Obr. 2016,captured,50,Tanks,RUS
+T-72B3 Obr. 2016,captured,51,Tanks,RUS
+T-72B3 Obr. 2016,captured,52,Tanks,RUS
+T-80BV,destroyed,1,Tanks,RUS
+T-80BV,abandoned,2,Tanks,RUS
+T-80BV,abandoned,3,Tanks,RUS
+T-80BV,captured,4,Tanks,RUS
+T-80BV,captured,5,Tanks,RUS
+T-80BV,captured,6,Tanks,RUS
+T-80BV,captured,7,Tanks,RUS
+T-80U,destroyed,1,Tanks,RUS
+T-80U,destroyed,2,Tanks,RUS
+T-80U,destroyed,3,Tanks,RUS
+T-80U,destroyed,4,Tanks,RUS
+T-80U,destroyed,5,Tanks,RUS
+T-80U,abandoned and later destroyed,6,Tanks,RUS
+T-80U,abandoned,7,Tanks,RUS
+T-80U,abandoned,8,Tanks,RUS
+T-80U,abandoned,9,Tanks,RUS
+T-80U,abandoned,10,Tanks,RUS
+T-80U,abandoned,11,Tanks,RUS
+T-80U,abandoned,12,Tanks,RUS
+T-80U,abandoned,13,Tanks,RUS
+T-80U,abandoned,14,Tanks,RUS
+T-80U,abandoned,15,Tanks,RUS
+T-80U,abandoned,16,Tanks,RUS
+T-80U,abandoned,17,Tanks,RUS
+T-80U,abandoned,18,Tanks,RUS
+T-80U,abandoned,19,Tanks,RUS
+T-80U,captured,20,Tanks,RUS
+T-80U,captured,21,Tanks,RUS
+T-80U,abandoned and destroyed,22,Tanks,RUS
+T-80U,damaged and captured,23,Tanks,RUS
+T-80U,captured and stripped,24,Tanks,RUS
+T-80U,captured,25,Tanks,RUS
+T-80U,captured,26,Tanks,RUS
+T-80U,captured,27,Tanks,RUS
+T-80U,captured,28,Tanks,RUS
+T-80U,captured,29,Tanks,RUS
+T-80U,captured,30,Tanks,RUS
+T-80U,captured,31,Tanks,RUS
+T-80U,captured,32,Tanks,RUS
+T-80U,captured,33,Tanks,RUS
+T-80U,captured,34,Tanks,RUS
+T-80U,captured,35,Tanks,RUS
+T-80U,captured,36,Tanks,RUS
+T-80U,captured,37,Tanks,RUS
+T-80U,captured,38,Tanks,RUS
+T-80U,captured,39,Tanks,RUS
+T-80U,captured,40,Tanks,RUS
+T-80U,captured,41,Tanks,RUS
+T-80UK,abandoned and later destroyed,1,Tanks,RUS
+T-80BVM,destroyed,1,Tanks,RUS
+T-80BVM,destroyed,2,Tanks,RUS
+T-80BVM,destroyed,3,Tanks,RUS
+T-80BVM,destroyed,4,Tanks,RUS
+T-80BVM,abandoned,5,Tanks,RUS
+T-80BVM,captured,6,Tanks,RUS
+T-80BVM,captured,7,Tanks,RUS
+T-80BVM,captured,8,Tanks,RUS
+T-80BVM,captured,9,Tanks,RUS
+T-80BVM,captured,10,Tanks,RUS
+T-80BVM,captured,11,Tanks,RUS
+T-80BVM,captured,12,Tanks,RUS
+T-80BVM,captured,13,Tanks,RUS
+T-80BVM,captured,14,Tanks,RUS
+T-90A,destroyed,1,Tanks,RUS
+T-90A,destroyed,2,Tanks,RUS
+T-90A,destroyed,3,Tanks,RUS
+T-90A,destroyed,4,Tanks,RUS
+T-90A,destroyed,5,Tanks,RUS
+T-90A,destroyed,6,Tanks,RUS
+T-90A,abandoned,7,Tanks,RUS
+T-90A,abandoned and later destroyed,8,Tanks,RUS
+T-90A,abandoned and later destroyed,9,Tanks,RUS
+T-90A,abandoned,10,Tanks,RUS
+T-90A,captured,11,Tanks,RUS
+T-90A,captured,12,Tanks,RUS
+T-90A,captured,13,Tanks,RUS
+T-90A,captured,14,Tanks,RUS
+T-90A,captured,15,Tanks,RUS
+T-90A,captured,16,Tanks,RUS
+Unknown tank,destroyed,1,Tanks,RUS
+Unknown tank,destroyed,2,Tanks,RUS
+Unknown tank,destroyed,3,Tanks,RUS
+Unknown tank,destroyed,4,Tanks,RUS
+Unknown tank,destroyed,5,Tanks,RUS
+Unknown tank,destroyed,6,Tanks,RUS
+Unknown tank,damaged,7,Tanks,RUS
+Unknown tank,abandoned,8,Tanks,RUS
+BRM-1K,destroyed,1,Armoured Fighting Vehicles,RUS
+BRM-1K,destroyed,2,Armoured Fighting Vehicles,RUS
+BRM-1K,destroyed,3,Armoured Fighting Vehicles,RUS
+BMP-1Khs,abandoned,1,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,1,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,2,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,3,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,4,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,5,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,6,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,7,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,8,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,9,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,10,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,11,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,12,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,13,Armoured Fighting Vehicles,RUS
+MT-LB,destroyed,14,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,15,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,16,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,17,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,18,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,19,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,20,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,21,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,22,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,23,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,24,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,25,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,26,Armoured Fighting Vehicles,RUS
+MT-LB,abandoned,27,Armoured Fighting Vehicles,RUS
+MT-LB,captured,28,Armoured Fighting Vehicles,RUS
+MT-LB,captured,29,Armoured Fighting Vehicles,RUS
+MT-LB,captured,30,Armoured Fighting Vehicles,RUS
+MT-LB,captured,31,Armoured Fighting Vehicles,RUS
+MT-LB,captured,32,Armoured Fighting Vehicles,RUS
+MT-LB,captured,33,Armoured Fighting Vehicles,RUS
+MT-LB,captured,34,Armoured Fighting Vehicles,RUS
+MT-LB,captured,35,Armoured Fighting Vehicles,RUS
+MT-LB,captured,36,Armoured Fighting Vehicles,RUS
+MT-LB,captured,37,Armoured Fighting Vehicles,RUS
+MT-LB,captured,38,Armoured Fighting Vehicles,RUS
+MT-LB,captured,39,Armoured Fighting Vehicles,RUS
+MT-LB,captured,40,Armoured Fighting Vehicles,RUS
+MT-LB,captured,41,Armoured Fighting Vehicles,RUS
+MT-LB,captured,42,Armoured Fighting Vehicles,RUS
+MT-LB,captured,43,Armoured Fighting Vehicles,RUS
+MT-LB,captured,44,Armoured Fighting Vehicles,RUS
+MT-LB,captured,45,Armoured Fighting Vehicles,RUS
+MT-LB,captured,46,Armoured Fighting Vehicles,RUS
+MT-LB,captured,47,Armoured Fighting Vehicles,RUS
+MT-LB,captured,48,Armoured Fighting Vehicles,RUS
+MT-LB,captured,49,Armoured Fighting Vehicles,RUS
+MT-LB,captured,50,Armoured Fighting Vehicles,RUS
+MT-LB,captured,51,Armoured Fighting Vehicles,RUS
+MT-LB,captured,52,Armoured Fighting Vehicles,RUS
+MT-LB,captured,53,Armoured Fighting Vehicles,RUS
+MT-LB,captured,54,Armoured Fighting Vehicles,RUS
+MT-LB,captured,55,Armoured Fighting Vehicles,RUS
+MT-LB,captured,56,Armoured Fighting Vehicles,RUS
+MT-LB,captured,57,Armoured Fighting Vehicles,RUS
+MT-LB,captured,58,Armoured Fighting Vehicles,RUS
+MT-LB,captured,59,Armoured Fighting Vehicles,RUS
+MT-LB,captured,60,Armoured Fighting Vehicles,RUS
+MT-LB,captured,61,Armoured Fighting Vehicles,RUS
+MT-LB,captured,62,Armoured Fighting Vehicles,RUS
+MT-LB,captured,63,Armoured Fighting Vehicles,RUS
+MT-LB,captured,64,Armoured Fighting Vehicles,RUS
+MT-LB,captured,65,Armoured Fighting Vehicles,RUS
+MT-LB,captured,66,Armoured Fighting Vehicles,RUS
+MT-LB,captured,67,Armoured Fighting Vehicles,RUS
+MT-LB,captured,68,Armoured Fighting Vehicles,RUS
+MT-LB with ZU-23 AA gun,destroyed,1,Armoured Fighting Vehicles,RUS
+MT-LB with ZU-23 AA gun,destroyed,2,Armoured Fighting Vehicles,RUS
+MT-LBM 6MB,abandoned,1,Armoured Fighting Vehicles,RUS
+MT-LB Ambulance,destroyed,1,Armoured Fighting Vehicles,RUS
+MT-LBu,destroyed,1,Armoured Fighting Vehicles,RUS
+MT-LBu,destroyed,2,Armoured Fighting Vehicles,RUS
+MT-LBu,destroyed,3,Armoured Fighting Vehicles,RUS
+MT-LBu,abandoned,4,Armoured Fighting Vehicles,RUS
+MT-LBu,abandoned,5,Armoured Fighting Vehicles,RUS
+MT-LBu,abandoned,6,Armoured Fighting Vehicles,RUS
+MT-LBu,captured,7,Armoured Fighting Vehicles,RUS
+MT-LBu,captured,8,Armoured Fighting Vehicles,RUS
+1V13 battery fire control center,abandoned,1,Armoured Fighting Vehicles,RUS
+1V13 battery fire control center,captured,2,Armoured Fighting Vehicles,RUS
+Vityaz DT-30 articulated tracked carrier,destroyed,1,Armoured Fighting Vehicles,RUS
+Vityaz DT-30 articulated tracked carrier,abandoned,2,Armoured Fighting Vehicles,RUS
+2S1 with ZU-23 AA gun,captured,1,Armoured Fighting Vehicles,RUS
+9P149 Shturm-S ATGM carrier,destroyed,1,Armoured Fighting Vehicles,RUS
+9P149 Shturm-S ATGM carrier,abandoned,2,Armoured Fighting Vehicles,RUS
+R-149MA1 unified command and staff vehicle,destroyed,1,Armoured Fighting Vehicles,RUS
+R-149MA1 unified command and staff vehicle,damaged and abandoned,2,Armoured Fighting Vehicles,RUS
+R-149MA1 unified command and staff vehicle,abandoned,3,Armoured Fighting Vehicles,RUS
+R-149MA1 unified command and staff vehicle,abandoned,4,Armoured Fighting Vehicles,RUS
+R-149MA1 unified command and staff vehicle,captured,5,Armoured Fighting Vehicles,RUS
+R-149MA1 unified command and staff vehicle,captured,6,Armoured Fighting Vehicles,RUS
+R-149MA1 unified command and staff vehicle,captured,7,Armoured Fighting Vehicles,RUS
+R-149MA3 command and staff vehicle,captured,1,Armoured Fighting Vehicles,RUS
+R-149MA3 command and staff vehicle,damaged and captured,2,Armoured Fighting Vehicles,RUS
+1V119 artillery battalion fire direction vehicle,destroyed,1,Armoured Fighting Vehicles,RUS
+1V119 artillery battalion fire direction vehicle,captured,2,Armoured Fighting Vehicles,RUS
+1V119 artillery battalion fire direction vehicle,captured,3,Armoured Fighting Vehicles,RUS
+TZM-T reloader vehicle (for TOS-1A),captured,1,Armoured Fighting Vehicles,RUS
+TZM-T reloader vehicle (for TOS-1A),captured,2,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,1,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,2,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,3,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,4,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,5,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,6,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,7,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,8,Armoured Fighting Vehicles,RUS
+Unknown BTR-D/BMD-2,destroyed,9,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed by Bayraktar TB2,1,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,2,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,3,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,4,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,5,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,6,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,7,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,8,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,9,Armoured Fighting Vehicles,RUS
+Unknown AFV,destroyed,10,Armoured Fighting Vehicles,RUS
+Unknown AFV,abandoned,11,Armoured Fighting Vehicles,RUS
+Unknown AFV,abandoned,12,Armoured Fighting Vehicles,RUS
+Unknown AFV,captured,13,Armoured Fighting Vehicles,RUS
+BMP-1(P),destroyed,1,Infantry Fighting Vehicles,RUS
+BMP-1(P),destroyed,2,Infantry Fighting Vehicles,RUS
+BMP-1(P),destroyed,3,Infantry Fighting Vehicles,RUS
+BMP-1(P),destroyed,4,Infantry Fighting Vehicles,RUS
+BMP-1(P),destroyed,5,Infantry Fighting Vehicles,RUS
+BMP-1(P),destroyed,6,Infantry Fighting Vehicles,RUS
+BMP-1(P),destroyed,7,Infantry Fighting Vehicles,RUS
+BMP-1(P),captured,8,Infantry Fighting Vehicles,RUS
+BMP-1(P),captured,9,Infantry Fighting Vehicles,RUS
+BMP-1(P),captured,10,Infantry Fighting Vehicles,RUS
+BMP-1(P),captured,11,Infantry Fighting Vehicles,RUS
+BMP-1(P),captured,12,Infantry Fighting Vehicles,RUS
+BMP-1(P),captured,13,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,1,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,2,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,3,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,4,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,5,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,6,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,7,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,8,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,9,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,10,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,11,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,12,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,13,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,14,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,15,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,16,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,17,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,18,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,19,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,20,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,21,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,22,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,23,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,24,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,25,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,26,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,27,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,28,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,29,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,30,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,31,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,32,Infantry Fighting Vehicles,RUS
+BMP-2,destroyed,33,Infantry Fighting Vehicles,RUS
+BMP-2,damaged and abandoned,34,Infantry Fighting Vehicles,RUS
+BMP-2,damaged and abandoned,35,Infantry Fighting Vehicles,RUS
+BMP-2,damaged and abandoned,36,Infantry Fighting Vehicles,RUS
+BMP-2,damaged and abandoned,37,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,38,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,39,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,40,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,41,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,42,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,43,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,44,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,45,Infantry Fighting Vehicles,RUS
+BMP-2,abandoned,46,Infantry Fighting Vehicles,RUS
+BMP-2,damaged and captured,47,Infantry Fighting Vehicles,RUS
+BMP-2,damaged and abandoned,48,Infantry Fighting Vehicles,RUS
+BMP-2,captured,49,Infantry Fighting Vehicles,RUS
+BMP-2,captured,50,Infantry Fighting Vehicles,RUS
+BMP-2,captured,51,Infantry Fighting Vehicles,RUS
+BMP-2,captured,52,Infantry Fighting Vehicles,RUS
+BMP-2,captured,53,Infantry Fighting Vehicles,RUS
+BMP-2,captured,54,Infantry Fighting Vehicles,RUS
+BMP-2,captured,55,Infantry Fighting Vehicles,RUS
+BMP-2,captured,56,Infantry Fighting Vehicles,RUS
+BMP-2,captured,57,Infantry Fighting Vehicles,RUS
+BMP-2,captured,58,Infantry Fighting Vehicles,RUS
+BMP-2,captured,59,Infantry Fighting Vehicles,RUS
+BMP-2,captured,60,Infantry Fighting Vehicles,RUS
+BMP-2,captured,61,Infantry Fighting Vehicles,RUS
+BMP-2,captured,62,Infantry Fighting Vehicles,RUS
+BMP-2,captured,63,Infantry Fighting Vehicles,RUS
+BMP-2,captured,64,Infantry Fighting Vehicles,RUS
+BMP-2,captured,65,Infantry Fighting Vehicles,RUS
+BMP-2K,abandoned,1,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,1,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,2,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,3,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,4,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,5,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,6,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,7,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,8,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,9,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,10,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,11,Infantry Fighting Vehicles,RUS
+BMP-3,destroyed,12,Infantry Fighting Vehicles,RUS
+BMP-3,damaged and captured,13,Infantry Fighting Vehicles,RUS
+BMP-3,captured,14,Infantry Fighting Vehicles,RUS
+BMP-3,captured,15,Infantry Fighting Vehicles,RUS
+BMP-3,captured,16,Infantry Fighting Vehicles,RUS
+BMP-3,captured,17,Infantry Fighting Vehicles,RUS
+BMP-3,captured,18,Infantry Fighting Vehicles,RUS
+BMP-3,captured,19,Infantry Fighting Vehicles,RUS
+BMP-3,captured,20,Infantry Fighting Vehicles,RUS
+BMP-3,captured,21,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed by Bayraktar TB2,1,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,2,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,3,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,4,Infantry Fighting Vehicles,RUS
+BMD-2,captured and destroyed,5,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,6,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,7,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,8,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,9,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,10,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,11,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,12,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,13,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,14,Infantry Fighting Vehicles,RUS
+BMD-2,destroyed,15,Infantry Fighting Vehicles,RUS
+BMD-2,damaged and abandoned,16,Infantry Fighting Vehicles,RUS
+BMD-2,abandoned,17,Infantry Fighting Vehicles,RUS
+BMD-2,abandoned,18,Infantry Fighting Vehicles,RUS
+BMD-2,abandoned,19,Infantry Fighting Vehicles,RUS
+BMD-2,abandoned,20,Infantry Fighting Vehicles,RUS
+BMD-2,damaged and captured,21,Infantry Fighting Vehicles,RUS
+BMD-2,captured,22,Infantry Fighting Vehicles,RUS
+BMD-2,captured,23,Infantry Fighting Vehicles,RUS
+BMD-2,captured,24,Infantry Fighting Vehicles,RUS
+BMD-2,captured,25,Infantry Fighting Vehicles,RUS
+BMD-2,captured,26,Infantry Fighting Vehicles,RUS
+BMD-2,captured,27,Infantry Fighting Vehicles,RUS
+BMD-2,captured,28,Infantry Fighting Vehicles,RUS
+BMD-2,captured,29,Infantry Fighting Vehicles,RUS
+BMD-2,captured,30,Infantry Fighting Vehicles,RUS
+BMD-2,captured,31,Infantry Fighting Vehicles,RUS
+BMD-2,captured,32,Infantry Fighting Vehicles,RUS
+BMD-2,captured,33,Infantry Fighting Vehicles,RUS
+BMD-2,captured,34,Infantry Fighting Vehicles,RUS
+BMD-2,captured,35,Infantry Fighting Vehicles,RUS
+BMD-2,captured,36,Infantry Fighting Vehicles,RUS
+BMD-2,captured,37,Infantry Fighting Vehicles,RUS
+BMD-2,captured,38,Infantry Fighting Vehicles,RUS
+BMD-2,captured,39,Infantry Fighting Vehicles,RUS
+BMD-2,captured,40,Infantry Fighting Vehicles,RUS
+BMD-2,captured,41,Infantry Fighting Vehicles,RUS
+BMD-2,captured,42,Infantry Fighting Vehicles,RUS
+BMD-2,captured,43,Infantry Fighting Vehicles,RUS
+BMD-2,captured,44,Infantry Fighting Vehicles,RUS
+BMD-2,captured,45,Infantry Fighting Vehicles,RUS
+BMD-4M,destroyed,1,Infantry Fighting Vehicles,RUS
+BMD-4M,destroyed,2,Infantry Fighting Vehicles,RUS
+BMD-4M,destroyed,3,Infantry Fighting Vehicles,RUS
+BMD-4M,destroyed,4,Infantry Fighting Vehicles,RUS
+BMD-4M,abandoned,5,Infantry Fighting Vehicles,RUS
+BMD-4M,captured,6,Infantry Fighting Vehicles,RUS
+BMD-4M,captured,7,Infantry Fighting Vehicles,RUS
+BMD-4M,captured,8,Infantry Fighting Vehicles,RUS
+BMD-4M,captured,9,Infantry Fighting Vehicles,RUS
+BMD-4M,captured,10,Infantry Fighting Vehicles,RUS
+BMD-4M,captured,11,Infantry Fighting Vehicles,RUS
+BMD-4M,captured,12,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,1,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,2,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,3,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,4,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,5,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,6,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,7,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,8,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,9,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,10,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,11,Infantry Fighting Vehicles,RUS
+BTR-82A,destroyed,12,Infantry Fighting Vehicles,RUS
+BTR-82A,damaged,13,Infantry Fighting Vehicles,RUS
+BTR-82A,abandoned,14,Infantry Fighting Vehicles,RUS
+BTR-82A,abandoned,15,Infantry Fighting Vehicles,RUS
+BTR-82A,abandoned,16,Infantry Fighting Vehicles,RUS
+BTR-82A,abandoned,17,Infantry Fighting Vehicles,RUS
+BTR-82A,damaged and abandoned,18,Infantry Fighting Vehicles,RUS
+BTR-82A,damaged and captured,19,Infantry Fighting Vehicles,RUS
+BTR-82A,captured,20,Infantry Fighting Vehicles,RUS
+BTR-82A,captured,21,Infantry Fighting Vehicles,RUS
+BTR-82A,captured,22,Infantry Fighting Vehicles,RUS
+BTR-82A,captured,23,Infantry Fighting Vehicles,RUS
+BTR-82A,captured,24,Infantry Fighting Vehicles,RUS
+BTR-82A,captured,25,Infantry Fighting Vehicles,RUS
+BTR-82A,captured,26,Infantry Fighting Vehicles,RUS
+BTR-80,destroyed,1,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,2,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,3,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,4,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,5,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,6,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,7,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,8,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,9,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,10,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,11,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,12,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,13,Armoured Personnel Carriers,RUS
+BTR-80,destroyed,14,Armoured Personnel Carriers,RUS
+BTR-80,abandoned,15,Armoured Personnel Carriers,RUS
+BTR-80,abandoned,16,Armoured Personnel Carriers,RUS
+BTR-80,abandoned,17,Armoured Personnel Carriers,RUS
+BTR-80,damaged and captured,18,Armoured Personnel Carriers,RUS
+BTR-80,captured,19,Armoured Personnel Carriers,RUS
+BTR-80,captured,20,Armoured Personnel Carriers,RUS
+BTR-80,captured,21,Armoured Personnel Carriers,RUS
+BTR-80,captured,22,Armoured Personnel Carriers,RUS
+BTR-80,captured,23,Armoured Personnel Carriers,RUS
+BTR-80,captured,24,Armoured Personnel Carriers,RUS
+BTR-80,captured,25,Armoured Personnel Carriers,RUS
+BTR-80,captured,26,Armoured Personnel Carriers,RUS
+BTR-80,captured,27,Armoured Personnel Carriers,RUS
+BTR-80,captured,28,Armoured Personnel Carriers,RUS
+BTR-80,captured,29,Armoured Personnel Carriers,RUS
+BTR-80,captured,30,Armoured Personnel Carriers,RUS
+BTR-80,captured,31,Armoured Personnel Carriers,RUS
+BTR-80,captured,32,Armoured Personnel Carriers,RUS
+BTR-80,captured,33,Armoured Personnel Carriers,RUS
+BTR-80,captured,34,Armoured Personnel Carriers,RUS
+BTR-80,captured,35,Armoured Personnel Carriers,RUS
+BTR-D,destroyed,1,Armoured Personnel Carriers,RUS
+BTR-D,destroyed,2,Armoured Personnel Carriers,RUS
+BTR-D,destroyed,3,Armoured Personnel Carriers,RUS
+BTR-D,destroyed,4,Armoured Personnel Carriers,RUS
+BTR-D,destroyed,5,Armoured Personnel Carriers,RUS
+BTR-D,destroyed,6,Armoured Personnel Carriers,RUS
+BTR-D,abandoned,7,Armoured Personnel Carriers,RUS
+BTR-D,abandoned,8,Armoured Personnel Carriers,RUS
+BTR-D,abandoned,9,Armoured Personnel Carriers,RUS
+BTR-D,abandoned,10,Armoured Personnel Carriers,RUS
+BTR-D,abandoned,11,Armoured Personnel Carriers,RUS
+BTR-D,abandoned,12,Armoured Personnel Carriers,RUS
+BTR-D,abandoned,13,Armoured Personnel Carriers,RUS
+BTR-D,abandoned,14,Armoured Personnel Carriers,RUS
+BTR-D,captured,15,Armoured Personnel Carriers,RUS
+BTR-D,captured,16,Armoured Personnel Carriers,RUS
+BTR-D,captured,17,Armoured Personnel Carriers,RUS
+BTR-D,captured,18,Armoured Personnel Carriers,RUS
+BTR-D,captured,19,Armoured Personnel Carriers,RUS
+BTR-D,captured,20,Armoured Personnel Carriers,RUS
+BTR-D,captured,21,Armoured Personnel Carriers,RUS
+BTR-D,captured,22,Armoured Personnel Carriers,RUS
+BTR-D,captured,23,Armoured Personnel Carriers,RUS
+BTR-D,captured,24,Armoured Personnel Carriers,RUS
+BTR-D,captured,25,Armoured Personnel Carriers,RUS
+BTR-MDM 'Rakushka',captured,1,Armoured Personnel Carriers,RUS
+BTR-MDM 'Rakushka',captured,2,Armoured Personnel Carriers,RUS
+BTR-MDM 'Rakushka',captured,3,Armoured Personnel Carriers,RUS
+BTR-MDM 'Rakushka',captured,4,Armoured Personnel Carriers,RUS
+KamAZ-63968 'Typhoon',destroyed,1,Mine-Resistant Ambush Protected,RUS
+KamAZ-63968 'Typhoon',destroyed,2,Mine-Resistant Ambush Protected,RUS
+KamAZ-63968 'Typhoon',captured,3,Mine-Resistant Ambush Protected,RUS
+KamAZ-63968 'Typhoon',captured,4,Mine-Resistant Ambush Protected,RUS
+K-4386 Typhoon-VDV,destroyed,1,Mine-Resistant Ambush Protected,RUS
+K-53949 Typhoon-K,abandoned,1,Mine-Resistant Ambush Protected,RUS
+K-53949 Typhoon-K,captured,2,Mine-Resistant Ambush Protected,RUS
+K-53949 Typhoon-K,captured,3,Mine-Resistant Ambush Protected,RUS
+K-53949 'Linza',captured,1,Mine-Resistant Ambush Protected,RUS
+GAZ Tigr-M,destroyed,1,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,2,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,3,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,4,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,5,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,6,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,7,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,8,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,9,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,10,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,11,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,12,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,13,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,14,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,15,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,16,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,destroyed,17,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,damaged,18,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,abandoned,19,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,20,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,21,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,22,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,23,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,24,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,25,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,26,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,27,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,28,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,29,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,30,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,31,Infantry Mobility Vehicles,RUS
+GAZ Tigr-M,captured,32,Infantry Mobility Vehicles,RUS
+Iveco LMV 'Rys',destroyed,1,Infantry Mobility Vehicles,RUS
+Iveco LMV 'Rys',destroyed,2,Infantry Mobility Vehicles,RUS
+Iveco LMV 'Rys',destroyed,3,Infantry Mobility Vehicles,RUS
+Iveco LMV 'Rys',destroyed,4,Infantry Mobility Vehicles,RUS
+Iveco LMV 'Rys',abandoned,5,Infantry Mobility Vehicles,RUS
+Iveco LMV 'Rys',captured,6,Infantry Mobility Vehicles,RUS
+MP-2IM signals vehicle,abandoned,1,Communications Stations,RUS
+Barnaul-T 9С932-1 automated system for air defence units,abandoned,1,Communications Stations,RUS
+Barnaul-T 9С932-1 automated system for air defence units,captured,2,Communications Stations,RUS
+Barnaul-T 9С932-1 automated system for air defence units,captured,3,Communications Stations,RUS
+R-166-0.5 signals vehicle,destroyed,1,Communications Stations,RUS
+R-166-0.5 signals vehicle,abandoned,2,Communications Stations,RUS
+R-419L1 communications station,abandoned,1,Communications Stations,RUS
+Unknown communications station based on the KamAZ 6x6,damaged and captured,1,Communications Stations,RUS
+Unknown communications station,destroyed by Bayraktar TB2,1,Communications Stations,RUS
+BTR-D APC with UR-67 mine clearing charge,captured,1,Engineering Vehicles,RUS
+UR-77 'Meterorit'  mine clearing vehicle,destroyed,1,Engineering Vehicles,RUS
+UR-77 'Meterorit'  mine clearing vehicle,abandoned,2,Engineering Vehicles,RUS
+UR-77 'Meterorit'  mine clearing vehicle,captured,3,Engineering Vehicles,RUS
+UR-77 'Meterorit'  mine clearing vehicle,captured,4,Engineering Vehicles,RUS
+UR-77 'Meterorit'  mine clearing vehicle,captured,5,Engineering Vehicles,RUS
+GMZ-3 minelayer,captured,1,Engineering Vehicles,RUS
+BAT-2 heavy engineering vehicle,destroyed,1,Engineering Vehicles,RUS
+BREM-1 armoured recovery vehicle,captured,1,Engineering Vehicles,RUS
+BREM-K armoured recovery vehicle,captured,1,Engineering Vehicles,RUS
+BREM-K armoured recovery vehicle,captured,2,Engineering Vehicles,RUS
+BREM-Ch ''BREM-4'' armoured recovery vehicle,captured,1,Engineering Vehicles,RUS
+armoured recovery vehicle,captured,1,Engineering Vehicles,RUS
+IMR-2 combat engineering vehicle,destroyed,1,Engineering Vehicles,RUS
+IMR-2 combat engineering vehicle,abandoned,2,Engineering Vehicles,RUS
+TMM-3 bridge layer,destroyed,1,Engineering Vehicles,RUS
+TMM-3 bridge layer,abandoned,2,Engineering Vehicles,RUS
+TMM-3 bridge layer,abandoned,3,Engineering Vehicles,RUS
+TMM-3 bridge layer,damaged and abandoned,4,Engineering Vehicles,RUS
+TMM-3 bridge layer,captured,5,Engineering Vehicles,RUS
+TMM-3 bridge layer,captured,6,Engineering Vehicles,RUS
+TMM-3 bridge layer,captured,7,Engineering Vehicles,RUS
+TMM-3 bridge layer,captured,8,Engineering Vehicles,RUS
+TMM-3 bridge layer,captured,9,Engineering Vehicles,RUS
+TMM-3 bridge layer,captured,10,Engineering Vehicles,RUS
+MTU-72 bridge layer,captured,1,Engineering Vehicles,RUS
+PMP floating bridge,2 and 3 destroyed,1,Engineering Vehicles,RUS
+PMP floating bridge,destroyed,4,Engineering Vehicles,RUS
+PTS-3  tracked amphibious transport,abandoned,1,Engineering Vehicles,RUS
+PTS-3  tracked amphibious transport,abandoned,2,Engineering Vehicles,RUS
+KamAZ-5350 with EOV-3523 excavator,destroyed,1,Engineering Vehicles,RUS
+KamAZ-5350 with EOV-3523 excavator,destroyed by Bayraktar TB2,2,Engineering Vehicles,RUS
+KamAZ-5350 with EOV-3523 excavator,captured,3,Engineering Vehicles,RUS
+KamAZ-5350 with EOV-3523 excavator,captured,4,Engineering Vehicles,RUS
+KamAZ-5350 with EOV-3523 excavator,captured,5,Engineering Vehicles,RUS
+KamAZ-5350 with KS-45719-7M crane,destroyed,1,Engineering Vehicles,RUS
+KamAZ-5350 with crane,destroyed,1,Engineering Vehicles,RUS
+Ural-4320 Wrecker,damaged and captured,1,Engineering Vehicles,RUS
+9M111 Fagot,captured,1,Engineering Vehicles,RUS
+9M111 Fagot,captured,2,Engineering Vehicles,RUS
+9M111 Fagot,captured,3,Anti-Tank Guided Missiles,RUS
+9M111 Fagot,captured,4,Anti-Tank Guided Missiles,RUS
+9M111 Fagot,captured,5,Anti-Tank Guided Missiles,RUS
+9M111 Fagot,captured,6,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,1,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,2,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,3,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,4,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,5,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,6,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,7,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,8,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,9,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,10,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,11,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,12,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,13,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,14,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,15,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,16,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,17,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,18,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,19,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,20,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,21,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,22,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,23,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,24,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,25,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,26,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,27,Anti-Tank Guided Missiles,RUS
+9M113 Konkurs,captured,28,Anti-Tank Guided Missiles,RUS
+9M113M Konkurs-M,captured,1,Anti-Tank Guided Missiles,RUS
+9М131F Metis-M1,captured,1,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,1,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,2,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,3,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,4,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,5,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,6,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,7,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,8,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,9,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,10,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,11,Anti-Tank Guided Missiles,RUS
+9M114 Kokon,captured,12,Anti-Tank Guided Missiles,RUS
+9K38 Igla,captured,1,Anti-Tank Guided Missiles,RUS
+9K38 Igla,captured,2,Anti-Tank Guided Missiles,RUS
+9K38 Igla,captured,3,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,4,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,5,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,6,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,7,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,8,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,9,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,10,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,11,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,12,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,13,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,14,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,15,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,16,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,17,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,18,Man-Portable Air Defence Systems,RUS
+9K38 Igla,captured,19,Man-Portable Air Defence Systems,RUS
+9K333 Verba,captured,1,Man-Portable Air Defence Systems,RUS
+9K333 Verba,captured,2,Man-Portable Air Defence Systems,RUS
+9K333 Verba,captured,3,Man-Portable Air Defence Systems,RUS
+120mm 2B11/2S12,captured,1,Man-Portable Air Defence Systems,RUS
+120mm 2B11/2S12,captured,2,Man-Portable Air Defence Systems,RUS
+120mm 2B11/2S12,captured,3,Heavy Mortars,RUS
+120mm 2B11/2S12,captured,4,Heavy Mortars,RUS
+120mm 2B11/2S12A,captured,1,Heavy Mortars,RUS
+120mm 2B16 Nona-K howitzer,captured,1,Heavy Mortars,RUS
+122mm D-30 howitzer 2A18,destroyed,1,Heavy Mortars,RUS
+122mm D-30 howitzer 2A18,abandoned,2,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,abandoned,3,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,abandoned,4,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,5,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,6,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,7,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,8,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,9,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,10,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,11,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,12,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,13,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,14,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,15,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,16,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,17,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,18,Towed Artillery,RUS
+122mm D-30 howitzer 2A18,captured,19,Towed Artillery,RUS
+152mm 2A65 Msta-B howitzer,destroyed by Bayraktar TB2,1,Towed Artillery,RUS
+152mm 2A65 Msta-B howitzer,destroyed by Bayraktar TB2,2,Towed Artillery,RUS
+152mm 2A65 Msta-B howitzer,destroyed by Bayraktar TB2,3,Towed Artillery,RUS
+152mm 2A65 Msta-B howitzer,damaged by Bayraktar TB2 and captured,4,Towed Artillery,RUS
+152mm 2A65 Msta-B howitzer,abandoned,5,Towed Artillery,RUS
+152mm 2A65 Msta-B howitzer,captured,6,Towed Artillery,RUS
+120mm 2S9 Nona,destroyed,1,Towed Artillery,RUS
+120mm 2S9 Nona,abandoned,2,Towed Artillery,RUS
+120mm 2S9 Nona,captured,3,Self-Propelled Artillery,RUS
+120mm 2S9 Nona,captured,4,Self-Propelled Artillery,RUS
+120mm 2S9 Nona,captured,5,Self-Propelled Artillery,RUS
+122mm 2S1 Gvozdika,destroyed,1,Self-Propelled Artillery,RUS
+122mm 2S1 Gvozdika,abandoned,2,Self-Propelled Artillery,RUS
+122mm 2S1 Gvozdika,captured,3,Self-Propelled Artillery,RUS
+152mm 2S3 Akatsiya,destroyed,1,Self-Propelled Artillery,RUS
+152mm 2S3 Akatsiya,destroyed,2,Self-Propelled Artillery,RUS
+152mm 2S3 Akatsiya,abandoned,3,Self-Propelled Artillery,RUS
+152mm 2S3 Akatsiya,abandoned,4,Self-Propelled Artillery,RUS
+152mm 2S3 Akatsiya,captured,5,Self-Propelled Artillery,RUS
+152mm 2S3 Akatsiya,captured,6,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,destroyed,1,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,destroyed,2,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,destroyed,3,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned and destroyed,4,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned,5,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned,6,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned,7,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned,8,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned,9,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned,10,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned,11,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,abandoned,12,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,captured,13,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,captured,14,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,captured,15,Self-Propelled Artillery,RUS
+152mm 2S19 Msta-S,captured,16,Self-Propelled Artillery,RUS
+122mm BM-21 'Grad',destroyed,1,Self-Propelled Artillery,RUS
+122mm BM-21 'Grad',destroyed,2,Self-Propelled Artillery,RUS
+122mm BM-21 'Grad',destroyed,3,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',destroyed,4,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',destroyed,5,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',destroyed,6,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',abandoned,7,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',abandoned,8,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',damaged and captured,9,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',captured,10,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',captured,11,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',captured,12,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',captured,13,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',captured,14,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',captured,15,Multiple Rocket Launchers,RUS
+122mm BM-21 'Grad',captured,16,Multiple Rocket Launchers,RUS
+220mm BM-27 'Uragan',destroyed by Bayraktar TB2,1,Multiple Rocket Launchers,RUS
+220mm BM-27 'Uragan',abandoned and destroyed,2,Multiple Rocket Launchers,RUS
+122mm 2B17 Tornado-G,destroyed,1,Multiple Rocket Launchers,RUS
+220mm TOS-1A,captured,1,Multiple Rocket Launchers,RUS
+23mm ZU-23,captured,1,Multiple Rocket Launchers,RUS
+23mm ZU-23,captured,2,Multiple Rocket Launchers,RUS
+BTR-ZD 'Skrezhet',captured,1,Anti-Aircraft Guns,RUS
+2K22M1 Tunguska,abandoned and later destroyed,1,Anti-Aircraft Guns,RUS
+2K22M1 Tunguska,abandoned and later destroyed,2,Self-Propelled Anti-Aircraft Guns,RUS
+2K22M1 Tunguska,abandoned and later destroyed,3,Self-Propelled Anti-Aircraft Guns,RUS
+2K22M1 Tunguska,abandoned and later destroyed,4,Self-Propelled Anti-Aircraft Guns,RUS
+2K22M1 Tunguska,abandoned and later destroyed,5,Self-Propelled Anti-Aircraft Guns,RUS
+2K22M1 Tunguska,damaged and abandoned,6,Self-Propelled Anti-Aircraft Guns,RUS
+2K22M1 Tunguska,abandoned,7,Self-Propelled Anti-Aircraft Guns,RUS
+2K22M1 Tunguska,abandoned,8,Self-Propelled Anti-Aircraft Guns,RUS
+9K33 Osa,destroyed,1,Self-Propelled Anti-Aircraft Guns,RUS
+9K33 Osa,destroyed,2,Self-Propelled Anti-Aircraft Guns,RUS
+9K33 Osa,damaged and abandoned,3,Surface-To-Air Missile Systems,RUS
+9K33 Osa,abandoned,4,Surface-To-Air Missile Systems,RUS
+9K33 Osa,captured,5,Surface-To-Air Missile Systems,RUS
+9K33 Osa,captured,6,Surface-To-Air Missile Systems,RUS
+9K35 Strela-10,abandoned,1,Surface-To-Air Missile Systems,RUS
+9K35 Strela-10,abandoned,2,Surface-To-Air Missile Systems,RUS
+9K35 Strela-10,abandoned,3,Surface-To-Air Missile Systems,RUS
+9K35 Strela-10,captured,4,Surface-To-Air Missile Systems,RUS
+9A310M1 TELAR (for Buk-M1-2),destroyed by Bayraktar TB2,1,Surface-To-Air Missile Systems,RUS
+9A310M1 TELAR (for Buk-M1-2),damaged,2,Surface-To-Air Missile Systems,RUS
+9A39M1 TEL (for Buk-M1-2),destroyed by Bayraktar TB2,1,Surface-To-Air Missile Systems,RUS
+9A310M2 TELAR (for Buk-M2),destroyed by Bayraktar TB2,1,Surface-To-Air Missile Systems,RUS
+9A310M2 TELAR (for Buk-M2),destroyed by Bayraktar TB2,2,Surface-To-Air Missile Systems,RUS
+9A310M2 TELAR (for Buk-M2),destroyed by Bayraktar TB2,3,Surface-To-Air Missile Systems,RUS
+9A39M2 TEL (for Buk-M2),destroyed by Bayraktar TB2,1,Surface-To-Air Missile Systems,RUS
+9A330 Tor TLAR (for 9K330 Tor-M),abandoned,1,Surface-To-Air Missile Systems,RUS
+9A330 Tor TLAR (for 9K330 Tor-M),captured,2,Surface-To-Air Missile Systems,RUS
+9A330 Tor TLAR (for 9K330 Tor-M),captured,3,Surface-To-Air Missile Systems,RUS
+9A331 TLAR (for 9K331 Tor-M1),abandoned and destroyed,1,Surface-To-Air Missile Systems,RUS
+9A331 TLAR (for 9K331 Tor-M1),captured,2,Surface-To-Air Missile Systems,RUS
+9A331M TLAR (for 9K332 Tor-M2),destroyed by Bayraktar TB2,1,Surface-To-Air Missile Systems,RUS
+9A331M TLAR (for 9K332 Tor-M2),captured,2,Surface-To-Air Missile Systems,RUS
+Pantsir-S1,destroyed by Bayraktar TB2,1,Surface-To-Air Missile Systems,RUS
+Pantsir-S1,abandoned and destroyed,2,Surface-To-Air Missile Systems,RUS
+Pantsir-S1,captured,3,Surface-To-Air Missile Systems,RUS
+Pantsir-S1,captured,4,Surface-To-Air Missile Systems,RUS
+Pantsir-S1,captured,5,Surface-To-Air Missile Systems,RUS
+(for Buk-M3),destroyed,1,Surface-To-Air Missile Systems,RUS
+R-330BMV Borisoglebsk-2B,damaged,1,Surface-To-Air Missile Systems,RUS
+R-330BMV Borisoglebsk-2B,captured,2,Radars,RUS
+Su-25 close air support aircraft,destroyed,1,Jammers And Deception Systems,RUS
+Su-25 close air support aircraft,destroyed,2,Jammers And Deception Systems,RUS
+Su-25 close air support aircraft,destroyed,3,Aircraft,RUS
+Su-25 close air support aircraft,destroyed,4,Aircraft,RUS
+Su-25 close air support aircraft,destroyed,5,Aircraft,RUS
+Su-30SM multirole aircraft,destroyed on the ground,1,Aircraft,RUS
+Su-30SM multirole aircraft,destroyed,2,Aircraft,RUS
+Su-34 strike aircraft,destroyed,1,Aircraft,RUS
+Su-34 strike aircraft,destroyed,2,Aircraft,RUS
+Su-34 strike aircraft,destroyed,3,Aircraft,RUS
+Su-34 strike aircraft,destroyed,4,Aircraft,RUS
+An-26 transport aircraft,destroyed,1,Aircraft,RUS
+Forpost reconnaissance UAV,destroyed,1,Aircraft,RUS
+Orlan-10 reconnaissance UAV,destroyed,1,Aircraft,RUS
+Eleron-3 reconnaissance UAV,captured,1,Unmanned Aerial Vehicles,RUS
+Eleron-3 reconnaissance UAV,captured,2,Unmanned Aerial Vehicles,RUS
+ZALA Aero KUB-BLA loitering munition,destroyed,1,Unmanned Aerial Vehicles,RUS
+E95M target drone (likely used as unmanned bait in order for Ukraine to reveal the location of air defence systems),captured,1,Unmanned Aerial Vehicles,RUS
+Mi-8 transport helicopter,destroyed,1,Unmanned Aerial Vehicles,RUS
+Mi-8 transport helicopter,destroyed,2,Unmanned Aerial Vehicles,RUS
+Mi-8 transport helicopter,destroyed,3,Helicopters,RUS
+Mi-24V/P attack helicopter,destroyed,1,Helicopters,RUS
+Mi-24V/P attack helicopter,destroyed,2,Helicopters,RUS
+Mi-35M attack helicopter,destroyed,1,Helicopters,RUS
+Mi-35M attack helicopter,destroyed,2,Helicopters,RUS
+Unknown Mi-24/35 attack helicopter,destroyed,1,Helicopters,RUS
+Unknown Mi-24/35 attack helicopter,destroyed,2,Helicopters,RUS
+Unknown Mi-24/35 attack helicopter,damaged,3,Helicopters,RUS
+Mi-28 attack helicopter,destroyed,1,Helicopters,RUS
+Ka-52 'Alligator' attack helicopter,destroyed,1,Helicopters,RUS
+Ka-52 'Alligator' attack helicopter,destroyed,2,Helicopters,RUS
+Ka-52 'Alligator' attack helicopter,damaged and abandoned,3,Helicopters,RUS
+Ka-52 'Alligator' attack helicopter,damaged and abandoned,4,Helicopters,RUS
+Fuel train,destroyed by Bayraktar TB2,1,Helicopters,RUS
+Fuel train,destroyed by Bayraktar TB2,2,Helicopters,RUS
+GAZ-66,abandoned,1,Logistics Trains,RUS
+GAZ-66,captured,2,Logistics Trains,RUS
+GAZ-66,captured,3,"Trucks, Vehicles and Jeeps",RUS
+GAZ-66,captured,4,"Trucks, Vehicles and Jeeps",RUS
+ZiL-131,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+ZiL-131,destroyed,2,"Trucks, Vehicles and Jeeps",RUS
+ZiL-131,abandoned,3,"Trucks, Vehicles and Jeeps",RUS
+ZiL-131,abandoned,4,"Trucks, Vehicles and Jeeps",RUS
+transporter-loader (for BM-27 'Uragan' MRL),destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+9T217 transloader (for 9K33 Osa),destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+9T217 transloader (for 9K33 Osa),captured,2,"Trucks, Vehicles and Jeeps",RUS
+GAZ-3308,abandoned,1,"Trucks, Vehicles and Jeeps",RUS
+GAZ-3308,abandoned,2,"Trucks, Vehicles and Jeeps",RUS
+GAZ Sobol,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+GAZ Sobol,abandoned,2,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed by Bayraktar TB2,1,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed by Bayraktar TB2,2,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,3,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,4,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,5,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,6,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,7,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,8,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,9,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,10,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,11,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,12,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,13,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,14,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,15,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,16,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,17,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,18,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,19,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,20,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,21,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,22,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,23,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,24,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,25,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,26,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,27,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,28,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,29,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,30,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,31,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,32,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,33,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,34,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed by Bayraktar TB2,35,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed by Bayraktar TB2,36,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed by Bayraktar TB2,37,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed by Bayraktar TB2,38,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,39,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,40,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,41,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,42,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,43,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,44,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,45,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,46,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,47,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,48,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,49,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,50,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,destroyed,51,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,damaged,52,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,damaged and abandoned,53,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,damaged and abandoned,54,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,55,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,56,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,57,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,58,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,59,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,60,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,61,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,62,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,63,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,64,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,65,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,abandoned,66,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,damaged and captured,67,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,68,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,69,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,70,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,71,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,72,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,73,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,74,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,75,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,76,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,77,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,78,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,79,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,80,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,81,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,82,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,83,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,84,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,85,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,86,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,87,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,88,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,89,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,90,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,91,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,92,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,93,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,94,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,95,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,96,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,97,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,98,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,99,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,100,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,101,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,102,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,103,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,104,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,105,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,106,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,107,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,108,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,109,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,110,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,111,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,112,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,113,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,114,"Trucks, Vehicles and Jeeps",RUS
+Ural-4320,captured,115,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,destroyed,2,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,destroyed,3,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,destroyed,4,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,destroyed,5,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,abandoned,6,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,7,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,8,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,9,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,10,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,11,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,12,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,13,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,14,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,15,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,16,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,17,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,18,"Trucks, Vehicles and Jeeps",RUS
+Ural-43206,captured,19,"Trucks, Vehicles and Jeeps",RUS
+Ural Federal,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+Ural Federal,abandoned,2,"Trucks, Vehicles and Jeeps",RUS
+Ural Federal,abandoned,3,"Trucks, Vehicles and Jeeps",RUS
+Ural Federal,abandoned,4,"Trucks, Vehicles and Jeeps",RUS
+Ural-542301 tank transporter,abandoned,1,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 4x4,abandoned,1,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 4x4,captured,2,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed by Bayraktar TB2,1,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed by Bayraktar TB2,2,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed by Bayraktar TB2,3,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed by Bayraktar TB2,4,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed by Bayraktar TB2,5,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,6,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,7,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,8,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,9,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,10,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,11,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,12,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,13,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,14,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,15,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,16,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,17,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,18,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,19,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,20,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,21,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,22,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,23,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,24,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,25,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,26,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,27,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,28,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,29,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,30,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,31,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,32,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,33,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,34,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,34,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,35,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,36,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,37,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,38,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,39,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,40,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,41,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,42,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,43,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,44,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,45,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,46,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,47,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,48,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,49,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,50,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,51,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,52,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,53,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,54,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,55,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,56,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,56,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,57,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,58,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,59,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,60,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,61,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,62,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,63,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,64,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,65,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,66,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,67,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,68,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,69,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,70,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,71,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,72,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,73,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,74,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,75,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,76,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,destroyed,77,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,damaged,78,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,damaged,79,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,damaged,80,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,damaged and abandoned,81,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,82,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,83,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,84,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,85,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,86,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,87,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,88,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,89,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,90,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,91,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,92,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,93,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,94,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,95,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,96,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,97,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,98,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,99,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,100,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,abandoned,101,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,damaged and captured,102,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,damaged and captured,103,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,damaged and captured,104,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,105,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,106,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,107,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,108,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,109,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,110,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,111,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,112,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,113,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,114,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,115,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,116,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,117,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,118,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,119,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,120,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,121,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,122,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,123,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,124,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,125,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,126,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,127,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,128,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,129,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,130,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,131,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,132,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,133,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,134,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,135,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,136,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,137,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,138,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,139,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,140,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,141,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,142,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,143,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,144,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,145,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,146,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,147,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,148,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,149,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,150,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,151,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,152,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,153,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,154,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,155,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,156,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,157,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,158,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,159,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,160,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,161,"Trucks, Vehicles and Jeeps",RUS
+KamAZ 6x6,captured,162,"Trucks, Vehicles and Jeeps",RUS
+KamAZ Avtozaks,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+KamAZ Avtozaks,destroyed,2,"Trucks, Vehicles and Jeeps",RUS
+KamAZ Avtozaks,abandoned,3,"Trucks, Vehicles and Jeeps",RUS
+KamAZ Avtozaks,captured,4,"Trucks, Vehicles and Jeeps",RUS
+KamAZ with armoured cabin,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+KamAZ with armoured cabin,abandoned,2,"Trucks, Vehicles and Jeeps",RUS
+KamAZ with armoured cabin,abandoned,3,"Trucks, Vehicles and Jeeps",RUS
+KamAZ-6350 8x8 artillery tractor,destroyed by Bayraktar TB2,1,"Trucks, Vehicles and Jeeps",RUS
+KamAZ-6350 8x8 artillery tractor,destroyed by Bayraktar TB2,2,"Trucks, Vehicles and Jeeps",RUS
+KamAZ-6350 8x8 artillery tractor,damaged by Bayraktar TB2 and captured,3,"Trucks, Vehicles and Jeeps",RUS
+KamAZ-6350 8x8 artillery tractor,damaged by Bayraktar TB2 and captured,4,"Trucks, Vehicles and Jeeps",RUS
+UAZ-469,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+UAZ-469,captured,2,"Trucks, Vehicles and Jeeps",RUS
+UAZ Patriot,abandoned,1,"Trucks, Vehicles and Jeeps",RUS
+UAZ-23632,captured,1,"Trucks, Vehicles and Jeeps",RUS
+UAZ-23632,captured,2,"Trucks, Vehicles and Jeeps",RUS
+Armoured SUV,damaged and captured,1,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,2,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,3,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,4,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,5,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,6,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,7,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,8,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,9,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,10,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,11,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,12,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,13,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,14,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,15,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,16,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,17,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,18,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,19,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,20,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,21,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,22,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,23,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,24,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,25,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,26,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,27,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,28,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,29,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,30,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed,31,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,destroyed by Bayraktar TB2,32,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,damaged,33,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,damaged,34,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,damaged and abandoned,35,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,damaged and abandoned,36,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,abandoned,37,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,captured,38,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,captured,39,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,captured,40,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,captured,41,"Trucks, Vehicles and Jeeps",RUS
+Unknown truck,captured,42,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,1,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,2,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,3,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,4,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,5,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,6,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,7,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,8,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,9,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,10,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,11,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,12,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,13,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,14,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,15,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,16,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,17,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,18,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,19,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,destroyed,20,"Trucks, Vehicles and Jeeps",RUS
+(Unknown) vehicle,captured,21,"Trucks, Vehicles and Jeeps",RUS
+T-64BV,destroyed,1,Tanks,UKR
+T-64BV,destroyed,2,Tanks,UKR
+T-64BV,destroyed,3,Tanks,UKR
+T-64BV,destroyed,4,Tanks,UKR
+T-64BV,destroyed,5,Tanks,UKR
+T-64BV,destroyed,6,Tanks,UKR
+T-64BV,destroyed,7,Tanks,UKR
+T-64BV,destroyed,8,Tanks,UKR
+T-64BV,destroyed,9,Tanks,UKR
+T-64BV,destroyed,10,Tanks,UKR
+T-64BV,destroyed,11,Tanks,UKR
+T-64BV,destroyed,12,Tanks,UKR
+T-64BV,destroyed,13,Tanks,UKR
+T-64BV,destroyed,14,Tanks,UKR
+T-64BV,destroyed,15,Tanks,UKR
+T-64BV,destroyed,16,Tanks,UKR
+T-64BV,destroyed,17,Tanks,UKR
+T-64BV,destroyed,18,Tanks,UKR
+T-64BV,destroyed,19,Tanks,UKR
+T-64BV,destroyed,20,Tanks,UKR
+T-64BV,damaged and abandoned,21,Tanks,UKR
+T-64BV,abandoned,22,Tanks,UKR
+T-64BV,abandoned,23,Tanks,UKR
+T-64BV,abandoned,24,Tanks,UKR
+T-64BV,abandoned,25,Tanks,UKR
+T-64BV,abandoned,26,Tanks,UKR
+T-64BV,abandoned,27,Tanks,UKR
+T-64BV,abandoned,28,Tanks,UKR
+T-64BV,abandoned,29,Tanks,UKR
+T-64BV,damaged and captured,30,Tanks,UKR
+T-64BV,captured,31,Tanks,UKR
+T-64BV,captured,32,Tanks,UKR
+T-64BV,captured,33,Tanks,UKR
+T-64BV,captured,34,Tanks,UKR
+T-64BV,captured,35,Tanks,UKR
+T-64BV,captured,36,Tanks,UKR
+T-64BV,captured,37,Tanks,UKR
+T-64BV,captured,38,Tanks,UKR
+T-64BV,captured,39,Tanks,UKR
+T-64BV,captured,40,Tanks,UKR
+T-64BV,captured,41,Tanks,UKR
+T-64BV,captured,42,Tanks,UKR
+T-64BV,captured,43,Tanks,UKR
+T-64BV,captured,44,Tanks,UKR
+T-64BV,captured,45,Tanks,UKR
+T-64BV,captured,46,Tanks,UKR
+T-64BV,captured,47,Tanks,UKR
+T-64BV,captured,48,Tanks,UKR
+T-64BV,captured,49,Tanks,UKR
+T-64BV,captured,50,Tanks,UKR
+T-64BV,captured,51,Tanks,UKR
+T-64BV,captured,52,Tanks,UKR
+T-64BV,captured,53,Tanks,UKR
+T-64BV,captured,54,Tanks,UKR
+T-64BV,captured,55,Tanks,UKR
+T-64BV,captured,56,Tanks,UKR
+T-64BV,captured,57,Tanks,UKR
+T-64BV,captured,58,Tanks,UKR
+T-64BV,captured,59,Tanks,UKR
+T-72AV,destroyed,1,Tanks,UKR
+T-72AV,destroyed,2,Tanks,UKR
+T-80BV,abandoned,1,Tanks,UKR
+T-80BV,damaged and captured,2,Tanks,UKR
+T-80BV,captured,3,Tanks,UKR
+BMP-1Khs,destroyed,1,Armoured Fighting Vehicles,UKR
+BRM-1K,damaged and captured,1,Armoured Fighting Vehicles,UKR
+BRM-1K,captured,2,Armoured Fighting Vehicles,UKR
+BRM-1K,captured,3,Armoured Fighting Vehicles,UKR
+BRDM-2,destroyed,1,Armoured Fighting Vehicles,UKR
+BRDM-2,destroyed,2,Armoured Fighting Vehicles,UKR
+BRDM-2,destroyed,3,Armoured Fighting Vehicles,UKR
+BRDM-2,destroyed,4,Armoured Fighting Vehicles,UKR
+BRDM-2,abandoned,5,Armoured Fighting Vehicles,UKR
+BRDM-2,abandoned,6,Armoured Fighting Vehicles,UKR
+BRDM-2,abandoned,7,Armoured Fighting Vehicles,UKR
+BRDM-2,abandoned,8,Armoured Fighting Vehicles,UKR
+BRDM-2,abandoned,9,Armoured Fighting Vehicles,UKR
+BRDM-2,abandoned,10,Armoured Fighting Vehicles,UKR
+BRDM-2,abandoned,11,Armoured Fighting Vehicles,UKR
+BRDM-2,abandoned,12,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,13,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,14,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,15,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,16,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,17,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,18,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,19,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,20,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,21,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,22,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,23,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,24,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,25,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,26,Armoured Fighting Vehicles,UKR
+BRDM-2,captured,27,Armoured Fighting Vehicles,UKR
+9P148 Konkurs ATGM carrier,destroyed,1,Armoured Fighting Vehicles,UKR
+9P148 Konkurs ATGM carrier,destroyed,2,Armoured Fighting Vehicles,UKR
+9P148 Konkurs ATGM carrier,captured,3,Armoured Fighting Vehicles,UKR
+MT-LB,destroyed,1,Armoured Fighting Vehicles,UKR
+MT-LB,destroyed,2,Armoured Fighting Vehicles,UKR
+MT-LB,abandoned,3,Armoured Fighting Vehicles,UKR
+MT-LB,captured,4,Armoured Fighting Vehicles,UKR
+MT-LB with ZU-23 AA gun,captured,1,Armoured Fighting Vehicles,UKR
+MT-LB Ambulance,abandoned,1,Armoured Fighting Vehicles,UKR
+MT-LBu,damaged and abandoned,1,Armoured Fighting Vehicles,UKR
+MT-LBu,captured,2,Armoured Fighting Vehicles,UKR
+BSEM-4K,destroyed,1,Armoured Fighting Vehicles,UKR
+BREM-1 ARV,captured,1,Armoured Fighting Vehicles,UKR
+Vepr MRAP,captured,1,Armoured Fighting Vehicles,UKR
+1V18 'Klyon-1' artillery command and forward observer vehicle,captured,1,Armoured Fighting Vehicles,UKR
+SNAR-10 battlefield surveillance radar,captured,1,Armoured Fighting Vehicles,UKR
+Unknown AFV,destroyed,1,Armoured Fighting Vehicles,UKR
+BMP-1(P),destroyed,1,Infantry Fighting Vehicles,UKR
+BMP-1(P),destroyed,2,Infantry Fighting Vehicles,UKR
+BMP-1(P),destroyed,3,Infantry Fighting Vehicles,UKR
+BMP-1(P),destroyed,4,Infantry Fighting Vehicles,UKR
+BMP-1(P),destroyed,5,Infantry Fighting Vehicles,UKR
+BMP-1(P),damaged and abandoned,6,Infantry Fighting Vehicles,UKR
+BMP-1(P),abandoned,7,Infantry Fighting Vehicles,UKR
+BMP-1(P),abandoned,8,Infantry Fighting Vehicles,UKR
+BMP-1(P),abandoned,9,Infantry Fighting Vehicles,UKR
+BMP-1(P),abandoned,10,Infantry Fighting Vehicles,UKR
+BMP-1(P),captured,11,Infantry Fighting Vehicles,UKR
+BMP-1(P),captured,12,Infantry Fighting Vehicles,UKR
+BMP-1 BM,destroyed,1,Infantry Fighting Vehicles,UKR
+BMP-2,destroyed,1,Infantry Fighting Vehicles,UKR
+BMP-2,abandoned,2,Infantry Fighting Vehicles,UKR
+BMP-2,captured,3,Infantry Fighting Vehicles,UKR
+BTR-4,destroyed,1,Infantry Fighting Vehicles,UKR
+BTR-4,destroyed,2,Infantry Fighting Vehicles,UKR
+BTR-4,destroyed,3,Infantry Fighting Vehicles,UKR
+BTR-4,destroyed,4,Infantry Fighting Vehicles,UKR
+BTR-4,destroyed,5,Infantry Fighting Vehicles,UKR
+BTR-4,destroyed,6,Infantry Fighting Vehicles,UKR
+BTR-4,destroyed,7,Infantry Fighting Vehicles,UKR
+BTR-4,abandoned,8,Infantry Fighting Vehicles,UKR
+BTR-4,abandoned,9,Infantry Fighting Vehicles,UKR
+BTR-4,captured,10,Infantry Fighting Vehicles,UKR
+BTR-4,captured,11,Infantry Fighting Vehicles,UKR
+BTR-4,captured,12,Infantry Fighting Vehicles,UKR
+BTR-4,captured,13,Infantry Fighting Vehicles,UKR
+BTR-4,captured,14,Infantry Fighting Vehicles,UKR
+BTR-4,captured,15,Infantry Fighting Vehicles,UKR
+BTR-4,captured,16,Infantry Fighting Vehicles,UKR
+BTR-4,captured,17,Infantry Fighting Vehicles,UKR
+BTR-4,captured,18,Infantry Fighting Vehicles,UKR
+BTR-4,captured,19,Infantry Fighting Vehicles,UKR
+BTR-3,destroyed,1,Infantry Fighting Vehicles,UKR
+BTR-3,captured,2,Infantry Fighting Vehicles,UKR
+BTR-3,captured,3,Infantry Fighting Vehicles,UKR
+BTR-3,captured,4,Infantry Fighting Vehicles,UKR
+BTR-3,captured,5,Infantry Fighting Vehicles,UKR
+BTR-60,captured,1,Armoured Personnel Carriers,UKR
+BTR-60,captured,2,Armoured Personnel Carriers,UKR
+BTR-60,captured,3,Armoured Personnel Carriers,UKR
+BTR-60,captured,4,Armoured Personnel Carriers,UKR
+BTR-70,abandoned,1,Armoured Personnel Carriers,UKR
+BTR-70,captured,2,Armoured Personnel Carriers,UKR
+BTR-70,captured,3,Armoured Personnel Carriers,UKR
+BTR-70,captured,4,Armoured Personnel Carriers,UKR
+BTR-70,captured,5,Armoured Personnel Carriers,UKR
+BTR-80,destroyed,1,Armoured Personnel Carriers,UKR
+BTR-80,destroyed,2,Armoured Personnel Carriers,UKR
+BTR-80,destroyed,3,Armoured Personnel Carriers,UKR
+BTR-80,destroyed,4,Armoured Personnel Carriers,UKR
+BTR-80,captured,5,Armoured Personnel Carriers,UKR
+BTR-80,captured,6,Armoured Personnel Carriers,UKR
+BTR-80,captured,7,Armoured Personnel Carriers,UKR
+BTR-80,captured,8,Armoured Personnel Carriers,UKR
+BTR-80,captured,9,Armoured Personnel Carriers,UKR
+AT105A 'Saxon',captured,1,Armoured Personnel Carriers,UKR
+Unknown BTR,abandoned,1,Armoured Personnel Carriers,UKR
+HMMWV,destroyed,1,Infantry Mobility Vehicles,UKR
+Novator,damaged,1,Infantry Mobility Vehicles,UKR
+Novator,captured,2,Infantry Mobility Vehicles,UKR
+Varta,destroyed,1,Infantry Mobility Vehicles,UKR
+Varta,captured,2,Infantry Mobility Vehicles,UKR
+Varta,captured,3,Infantry Mobility Vehicles,UKR
+Varta,captured,4,Infantry Mobility Vehicles,UKR
+Varta,captured,5,Infantry Mobility Vehicles,UKR
+Varta,captured,6,Infantry Mobility Vehicles,UKR
+Varta,captured,7,Infantry Mobility Vehicles,UKR
+Varta,captured,8,Infantry Mobility Vehicles,UKR
+Varta,captured,9,Infantry Mobility Vehicles,UKR
+Varta,captured,10,Infantry Mobility Vehicles,UKR
+Varta,captured,11,Infantry Mobility Vehicles,UKR
+Varta,captured,12,Infantry Mobility Vehicles,UKR
+Kozak-2,destroyed,1,Infantry Mobility Vehicles,UKR
+Kozak-2,abandoned,2,Infantry Mobility Vehicles,UKR
+Kozak-2,damaged and captured,3,Infantry Mobility Vehicles,UKR
+Kozak-2,captured,4,Infantry Mobility Vehicles,UKR
+Kozak-2,captured,5,Infantry Mobility Vehicles,UKR
+BAT-2 heavy engineering vehicle,captured,1,Engineering Vehicles,UKR
+9M111 Fagot,captured,1,Anti-tank Guided Missiles,UKR
+9M111 Fagot,captured,2,Anti-tank Guided Missiles,UKR
+9M111 Fagot,captured,3,Anti-tank Guided Missiles,UKR
+9M111 Fagot,captured,4,Anti-tank Guided Missiles,UKR
+9M111 Fagot,captured,5,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,1,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,2,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,3,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,4,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,5,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,6,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,7,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,8,Anti-tank Guided Missiles,UKR
+9M113 Konkurs,captured,9,Anti-tank Guided Missiles,UKR
+RK-3 Corsar,captured,1,Anti-tank Guided Missiles,UKR
+RK-3 Corsar,captured,2,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,1,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,2,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,3,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,4,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,5,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,6,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,7,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,8,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,9,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,10,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,11,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,12,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,13,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,14,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,15,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,16,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,17,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,18,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,19,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,20,Anti-tank Guided Missiles,UKR
+MBT LAW 'NLAW',captured,21,Anti-tank Guided Missiles,UKR
+FGM-148 Javelin,captured,1,Anti-tank Guided Missiles,UKR
+FGM-148 Javelin,captured,2,Anti-tank Guided Missiles,UKR
+FGM-148 Javelin,captured,3,Anti-tank Guided Missiles,UKR
+9K38 Igla,captured,1,Man-Portable Air Defence Systems,UKR
+9K38 Igla,captured,2,Man-Portable Air Defence Systems,UKR
+9K38 Igla,captured,3,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,1,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,2,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,3,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,4,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,5,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,6,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,7,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,8,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,9,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,10,Man-Portable Air Defence Systems,UKR
+9K310 Igla-1,captured,11,Man-Portable Air Defence Systems,UKR
+100mm MT-12 anti-tank gun,abandoned,1,Towed Artillery,UKR
+100mm MT-12 anti-tank gun,captured,2,Towed Artillery,UKR
+100mm MT-12 anti-tank gun,captured,3,Towed Artillery,UKR
+122mm D-30 howitzer,destroyed,1,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,1,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,2,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,3,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,4,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,5,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,6,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,7,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,8,Towed Artillery,UKR
+152mm 2A36 Giatsint-B field-gun,abandoned and later burned,9,Towed Artillery,UKR
+152mm 2A65 Msta-B howitzer,abandoned,1,Towed Artillery,UKR
+152mm 2A65 Msta-B howitzer,abandoned,2,Towed Artillery,UKR
+122mm 2S1 Gvozdika,destroyed,1,Self-Propelled Artillery,UKR
+122mm 2S1 Gvozdika,destroyed,2,Self-Propelled Artillery,UKR
+122mm 2S1 Gvozdika,destroyed,3,Self-Propelled Artillery,UKR
+122mm 2S1 Gvozdika,destroyed,4,Self-Propelled Artillery,UKR
+122mm 2S1 Gvozdika,abandoned,5,Self-Propelled Artillery,UKR
+122mm 2S1 Gvozdika,captured,6,Self-Propelled Artillery,UKR
+122mm 2S1 Gvozdika,captured,7,Self-Propelled Artillery,UKR
+122mm 2S1 Gvozdika,captured,8,Self-Propelled Artillery,UKR
+220mm BM-27 'Uragan',captured,1,Multiple Rocket Launchers,UKR
+220mm BM-27 'Uragan',captured,2,Multiple Rocket Launchers,UKR
+220mm BM-27 'Uragan',captured,3,Multiple Rocket Launchers,UKR
+23mm ZU-23,captured,1,Anti-Aircraft Guns,UKR
+ZSU-23-4 'Shilka',captured,1,Self-Propelled Anti-Aircraft Guns,UKR
+5P85D (launcher for S-300PS),destroyed,1,Surface-To-Air Missile Systems,UKR
+5P85S (launcher for S-300PS),destroyed,1,Surface-To-Air Missile Systems,UKR
+9K33 Osa,destroyed,1,Surface-To-Air Missile Systems,UKR
+9K33 Osa,destroyed,2,Surface-To-Air Missile Systems,UKR
+9K33 Osa,destroyed,3,Surface-To-Air Missile Systems,UKR
+9K33 Osa,destroyed,4,Surface-To-Air Missile Systems,UKR
+9K33 Osa,destroyed,5,Surface-To-Air Missile Systems,UKR
+9K35 Strela-10,destroyed,1,Surface-To-Air Missile Systems,UKR
+Buk-M1,destroyed,1,Surface-To-Air Missile Systems,UKR
+P-14 'Tall King',damaged,1,Radars,UKR
+P-35/37 'Bar Lock',destroyed,1,Radars,UKR
+PRV-13 'Odd Pair',destroyed,1,Radars,UKR
+1L22 'Parol',destroyed,1,Radars,UKR
+1L22 'Parol',damaged,2,Radars,UKR
+MiG-29 fighter aircraft,destroyed,1,Aircraft,UKR
+Su-27 fighter aircraft,destroyed,1,Aircraft,UKR
+Su-27 fighter aircraft,destroyed,2,Aircraft,UKR
+Su-27 fighter aircraft,destroyed,3,Aircraft,UKR
+Su-25 attack aircraft,destroyed,1,Aircraft,UKR
+Su-25 attack aircraft,destroyed,2,Aircraft,UKR
+Su-25 attack aircraft,destroyed,3,Aircraft,UKR
+An-26 transport aircraft,destroyed,1,Aircraft,UKR
+An-225,destroyed,1,Aircraft,UKR
+Tu-141 reconnaissance UAV,destroyed,1,Unmanned Aerial Vehicles,UKR
+Tu-141 reconnaissance UAV,destroyed,2,Unmanned Aerial Vehicles,UKR
+Leleka-100 reconnaissance UAV,captured,1,Unmanned Aerial Vehicles,UKR
+Leleka-100 reconnaissance UAV,captured,2,Unmanned Aerial Vehicles,UKR
+Mi-24 attack helicopter,destroyed,1,Helicopters,UKR
+Krivak III class frigate 'Hetman Sahaydachniy',scuttled to prevent capture by Russia,1,Naval Ships,UKR
+Island-class patrol boat P190 Slovyansk,sunk,1,Naval Ships,UKR
+KrAZ-6322,destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,damaged and captured,2,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,captured,3,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,captured,4,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,captured,5,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,captured,6,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,captured,7,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,captured,8,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,captured,9,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-6322,captured,10,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-5233,captured,1,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-5233,captured,2,"Trucks, Vehicles and Jeeps",UKR
+KrAZ-5233,captured,3,"Trucks, Vehicles and Jeeps",UKR
+transporter-loader (for BM-27 'Uragan' MRL),destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,destroyed,2,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,destroyed,3,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,destroyed,4,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,destroyed,5,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,destroyed,6,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,damaged,7,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,damaged and abandoned,8,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,damaged and abandoned,9,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,abandoned,10,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,captured,11,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,captured,12,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,captured,13,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,captured,14,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,captured,15,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,captured,16,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,captured,17,"Trucks, Vehicles and Jeeps",UKR
+GAZ-66,captured,18,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,destroyed,2,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,destroyed,3,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,destroyed,4,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,destroyed,5,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,abandoned,6,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,abandoned,7,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,8,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,9,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,10,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,11,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,12,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,13,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,14,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,15,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,16,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,17,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,18,"Trucks, Vehicles and Jeeps",UKR
+ZiL-131,captured,19,"Trucks, Vehicles and Jeeps",UKR
+Ural-375D,captured,1,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,destroyed,2,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,destroyed,3,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,destroyed,4,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,destroyed,5,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,destroyed,6,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,destroyed,7,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,destroyed,8,"Trucks, Vehicles and Jeeps",UKR
+Ural-4320,captured,9,"Trucks, Vehicles and Jeeps",UKR
+KamAZ,destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+MAZ-537,destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+MAZ-537,captured,2,"Trucks, Vehicles and Jeeps",UKR
+MAZ,destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+MAZ,destroyed,2,"Trucks, Vehicles and Jeeps",UKR
+MAZ,destroyed,3,"Trucks, Vehicles and Jeeps",UKR
+MAZ,destroyed,4,"Trucks, Vehicles and Jeeps",UKR
+MAZ,destroyed,5,"Trucks, Vehicles and Jeeps",UKR
+MAZ,destroyed,6,"Trucks, Vehicles and Jeeps",UKR
+MAZ,destroyed,7,"Trucks, Vehicles and Jeeps",UKR
+MAZ,damaged,8,"Trucks, Vehicles and Jeeps",UKR
+MAZ,abandoned,9,"Trucks, Vehicles and Jeeps",UKR
+MAZ,abandoned,10,"Trucks, Vehicles and Jeeps",UKR
+MAZ,captured,11,"Trucks, Vehicles and Jeeps",UKR
+UAZ-469,captured,1,"Trucks, Vehicles and Jeeps",UKR
+UAZ-452,captured,1,"Trucks, Vehicles and Jeeps",UKR
+Unknown truck,destroyed,1,"Trucks, Vehicles and Jeeps",UKR
+Unknown truck,destroyed,2,"Trucks, Vehicles and Jeeps",UKR
+Unknown truck,destroyed,3,"Trucks, Vehicles and Jeeps",UKR
+Unknown truck,destroyed,4,"Trucks, Vehicles and Jeeps",UKR
+Unknown truck,damaged and abandoned,5,"Trucks, Vehicles and Jeeps",UKR
+Unknown truck,abandoned,6,"Trucks, Vehicles and Jeeps",UKR
+Unknown truck,abandoned,7,"Trucks, Vehicles and Jeeps",UKR
+Unknown truck,captured,8,"Trucks, Vehicles and Jeeps",UKR
