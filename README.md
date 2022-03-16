@@ -4,3 +4,7 @@ This notebook allows for the webscraping of Oryx's analysis of equipment losses 
 
 + **oryx.ipynb** - contains `Beautiful Soup` webscraper to output `csv` files; requires manual curation of minor errors
 + **assets/** - contains relevant `csv` files saved by timestamp from `dateModified` tag on page
+
+
+![Stacked bar plot by status and group](./plots/stacked_bar.svg)
+<img src="./plots/stacked_bar.svg">
